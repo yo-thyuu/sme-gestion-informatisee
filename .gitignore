@@ -1,0 +1,24 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# IDE-local settings (PyCharm may recreate these on this computer)
+.idea/
+.vscode/
+
+# Test/tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local databases and exports created during development
+*.db
+*.sqlite
+*.sqlite3
+*.log

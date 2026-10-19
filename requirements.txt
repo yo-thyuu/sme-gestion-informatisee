@@ -1,0 +1,2 @@
+# No third-party dependencies are required for the current milestone.
+# Add a package here only when the project needs it and we understand why.
