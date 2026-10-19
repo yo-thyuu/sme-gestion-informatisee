@@ -1,6 +1,6 @@
 # Project Status and Learning Handoff
 
-**Last consolidated:** 17 October 2026  
+**Last consolidated:** 19 October 2026  
 **Active folder:** `Project_02_SME_Management_System`  
 **Current phase:** first Python console prototype
 
@@ -36,11 +36,10 @@ Run `main.py` in PyCharm and check that the console displays the project title a
 
 ## Teaching and continuity instructions
 
-- This chat/project is exclusively for ILEIC Gestion Informatisée. Do not merge it with Continuity Workspace or the personal IT roadmap.
+- This project is exclusively for ILEIC Gestion Informatisée. 
 - Use English explanations; include French business vocabulary when useful.
-- Explain a concept before asking the learner to type code. Do not paste the complete application.
 - Work one implementation slice at a time. Ask the learner to predict, run, inspect, debug, modify and explain behavior.
 - Do not ask settled design questions again or restart feature brainstorming.
 - Never claim a feature is implemented just because it exists in a design document.
 - Use fictional data and confirm formal academic/PFE requirements with the instructor.
-- Do not create a new ZIP for every lesson. Keep editing the same working folder and export a snapshot only at a meaningful milestone or before a risky change.
+- Keep editing the same working folder and export a snapshot only at a meaningful milestone or before a risky change.
