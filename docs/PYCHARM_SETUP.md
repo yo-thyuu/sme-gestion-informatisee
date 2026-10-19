@@ -21,6 +21,7 @@
 
 #  Note
 if there is another IDE you have beside Pycharm (VScode), make sure to download the python extentions from microsoft package.
+
 ## Important
 
 - Never extract a new ZIP over the active project folder. That can mix old and new documents.
@@ -29,6 +30,6 @@ if there is another IDE you have beside Pycharm (VScode), make sure to download 
 - Do not install packages until a lesson explains why one is needed.
 - The first implementation should be a small console prototype. A graphical interface, database and cloud deployment are later decisions.
 
-## Ongoing workflow — no ZIP per lesson
+## Ongoing workflow 
 
 Keep the same working folder. Edit the code and the relevant single-source documents in place. Use Git . Export a new ZIP only at a meaningful milestone or before a risky set of changes.

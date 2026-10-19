@@ -26,9 +26,9 @@ These milestones describe our project, not official ILEIC semesters or module na
 - [ ] Validate the model through implementation and tests; adjust only for a genuine contradiction or gap.
 
 ## Phase 3 — First working Python prototype: current
-- [ ] Open the consolidated project in PyCharm and run `main.py`.
-- [ ] Understand the entry point, function call and `if __name__ == "__main__"` guard.
-- [ ] Represent one purchase order and one line in Python.
+- [x] Open the consolidated project in PyCharm and run `main.py`.
+- [x] Understand the entry point, function call and `if __name__ == "__main__"` guard.
+- [x] Represent one purchase order and one line in Python.
 - [ ] Add simple validation and clear output.
 - [ ] Add physical receipt, actual variant and disposition.
 - [ ] Calculate accepted stock and prevent duplicate posting.
