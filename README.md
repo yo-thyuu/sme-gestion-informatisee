@@ -1,10 +1,10 @@
-\# Système Modulaire de Gestion Informatisée
+# Système Modulaire de Gestion Informatisée
 
-\# Modular Management Information System
+# Modular Management Information System
 
 
 
-\## Description (FR)
+## Description (FR)
 
 
 
@@ -16,7 +16,7 @@ Projet de 1ère année — Groupe ILEIC, Agadir (2026–2028).
 
 
 
-\## Description (EN)
+## Description (EN)
 
 
 
@@ -28,67 +28,67 @@ First-year student project — ILEIC, Agadir (2026–2028).
 
 
 
-\## Fonctionnalités / Features
+## Fonctionnalités / Features
 
 
 
-\- Commande fournisseur (création manuelle) / Supplier order (manual)
+- Commande fournisseur (création manuelle) / Supplier order (manual)
 
-\- Réception de marchandises (variante réelle, quantités) / Goods receipt (actual variant, quantities)
+- Réception de marchandises (variante réelle, quantités) / Goods receipt (actual variant, quantities)
 
-\- Classification : accepté / endommagé / Classification: accepted / damaged
+- Classification : accepté / endommagé / Classification: accepted / damaged
 
-\- Mise à jour du stock (accepté uniquement) / Stock update (accepted only)
+- Mise à jour du stock (accepté uniquement) / Stock update (accepted only)
 
-\- Prévention du double postage / Duplicate posting prevention
+- Prévention du double postage / Duplicate posting prevention
 
-\- Gestion des exceptions (cas ouverts/fermés) / Exception management (open/closed cases)
+- Gestion des exceptions (cas ouverts/fermés) / Exception management (open/closed cases)
 
-\- Scénario complet automatique (démo) / Full automated scenario (demo)
+- Scénario complet automatique (démo) / Full automated scenario (demo)
 
-\- Sauvegarde JSON / JSON save
-
-
-
-\## Lancement / Run
+- Sauvegarde JSON / JSON save
 
 
 
-&#x20;   python main.py
+## Lancement / Run
 
 
 
-\## Technologies
+   python main.py
 
 
 
-\- Python 3.14
-
-\- PyCharm
-
-\- JSON (stockage local) / local storage
-
-\- Pas de dépendances externes / No external dependencies
+## Technologies
 
 
 
-\## Phases futures / Future phases
+- Python 3.14
+
+- PyCharm
+
+- JSON (stockage local) / local storage
+
+- Pas de dépendances externes / No external dependencies
 
 
 
-\- Multi-lignes par commande / Multi-line orders
-
-\- Amendements formels / Formal amendments
-
-\- Interface graphique / GUI
-
-\- Base de données (SQLite) / Database
-
-\- Multi-utilisateurs / Multi-user
+## Phases futures / Future phases
 
 
 
-\## Auteur / Author
+- Multi-lignes par commande / Multi-line orders
+
+- Amendements formels / Formal amendments
+
+- Interface graphique / GUI
+
+- Base de données (SQLite) / Database
+
+- Multi-utilisateurs / Multi-user
+
+
+
+## Auteur / Author
 
 
 
