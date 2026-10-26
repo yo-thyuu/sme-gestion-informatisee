@@ -16,6 +16,7 @@ A Python learning project focused on managing purchasing, goods receipts, stock,
 - Basic purchase-order data using Python dictionaries and lists.
 - Displaying purchase-order information.
 - Classifying received quantities into accepted and damaged goods.
+- Receipt with clear field names (SKU, variant, quantities).
 
 ## Planned features
 
